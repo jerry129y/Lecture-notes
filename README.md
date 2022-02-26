@@ -33,5 +33,16 @@ R. Keener. \cite{keener2010theoretical}
 * \item Reference lists \cite{montanari2020mean} \url{https://web.stanford.edu/~montanar/OTHER/TALKS/oops_refs.pdf}
 
 
+## Chapter 4: Probability
+
+This Chapter is based on STAT 902 - Theory of Probability 2 (Instructor: Dr. Yi shen) at UWaterloo.
+
+### References:
+   * \item   Amir Dembo, Probability Theory: STAT310/MATH230 (April 15, 2021)\footnote{\url{https://statweb.stanford.edu/~adembo/stat-310b/lnotes.pdf}} 
+   * \item Jean-Francois Le Gall, Brownian Motion, Martingales, and Stochastic Calculus\footnote{\url{https://link.springer.com/book/10.1007/978-3-319-31089-3}}
+   * \item  Timo Seppalainen, Basics of Stochastic Analysis \footnote{\url{https://www.math.wisc.edu/~seppalai/courses/735/notes.pdf}}
+   * \item Rick Durrett, Theory and Examples (Version 5) \footnote{\url{https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf}}
+    * \item John B. Walsh, Knowing the Odds: An Introduction to Probability\footnote{\url{https://bookstore.ams.org/gsm-139}}
+   * \item Bernt Oksendal, Stochastic Differential Equations \footnote{\url{https://link.springer.com/book/10.1007/978-3-642-14394-6}}
 
 
