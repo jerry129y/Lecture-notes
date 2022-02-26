@@ -2,7 +2,7 @@
 
 This is a Lecture note of courses I took recently in my Ph.D. in statistics.
 
-Chapter 1: High-dimensional statistics.
+## Chapter 1: High-dimensional statistics.
 This Chapter is based on Spring 2022 STAT 946 - Topics in Statistics: High dim in Statistics (Instructor: Dr. David Saunders, Adam Kolkiewicz) and STAT 946 Fall 2021 (Instructor: Dr. Aukosh Jagannath) at UWaterloo.
 
 References:
